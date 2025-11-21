@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: THEJASHREE S
+### Register Number: 212224240175
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
